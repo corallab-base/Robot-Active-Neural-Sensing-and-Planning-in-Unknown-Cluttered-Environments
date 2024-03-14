@@ -1,4 +1,5 @@
-Robot Active Neural Sensing and Planning in Unknown Cluttered Environments
+#Robot Active Neural Sensing and Planning in Unknown Cluttered Environments
+
 Code for [Robot Active Neural Sensing and Planning in Unknown Cluttered Environments](https://ieeexplore.ieee.org/document/10101696)
 ```Bibtex
 @ARTICLE{10101696,
@@ -22,9 +23,9 @@ Code for [Robot Active Neural Sensing and Planning in Unknown Cluttered Environm
 ---
 
 ## Pretrained Models and usage
-- [ScoreNet](https://drive.google.com/drive/folders/1G3CgzlIclktMbbc8krXBYMFIZ6Gd1v_E?usp=sharing)\
-- [VPFormer](https://drive.google.com/drive/folders/1UBZgqJjepLXYmBXpAqzX179p1rn83Vpg?usp=sharing) \
-- [PoinTr](https://drive.google.com/drive/folders/1K_VioYllsd5OuU0rB5PZnIlrKHjG-a76?usp=sharing)   \
+- [ScoreNet](https://drive.google.com/drive/folders/1G3CgzlIclktMbbc8krXBYMFIZ6Gd1v_E?usp=sharing)
+- [VPFormer](https://drive.google.com/drive/folders/1UBZgqJjepLXYmBXpAqzX179p1rn83Vpg?usp=sharing)
+- [PoinTr](https://drive.google.com/drive/folders/1K_VioYllsd5OuU0rB5PZnIlrKHjG-a76?usp=sharing)   
 ---
 
 ## Usage
