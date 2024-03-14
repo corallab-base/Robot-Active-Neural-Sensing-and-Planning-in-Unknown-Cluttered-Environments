@@ -1,0 +1,6 @@
+002_master_chef_can/002_master_chef_can.urdf
+004_sugar_box/004_sugar_box.urdf
+005_tomato_soup_can/005_tomato_soup_can.urdf
+006_mustard_bottle/006_mustard_bottle.urdf
+036_wood_block/036_wood_block.urdf
+011_banana/011_banana.urdf

@@ -1,0 +1,6 @@
+002_master_chef_can/textured_vhacd.obj
+004_sugar_box/textured_vhacd.obj
+005_tomato_soup_can/textured_vhacd.obj
+006_mustard_bottle/textured_vhacd.obj
+036_wood_block/textured_vhacd.obj
+011_banana/textured_vhacd.obj
